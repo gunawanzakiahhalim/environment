@@ -5,7 +5,9 @@ body {
 dl {
     margin: 5px;
     padding: 10px;
-    border: solid 1px darkblue;
+    border: 1px solid darkblue;
+    border-radius: 20px;
+    background-color: wheat;
     max-width: 300px;
     min-width: 300px;
     float: left;
@@ -15,16 +17,21 @@ dt {
     margin-top: 10px;
     margin-bottom: 5px;
     font-weight: bold;
+    color: teal;
 }
 
 dd {
-    margin-top: 2px;
+    margin-top: 5px;
 }
 
 dd a {
     text-decoration: none;
+    color: darkblue;
+    padding: 5px;
 }
 
 dd a:hover {
     color: black;
+    background-color: springgreen;
+    padding: 5px;
 }
