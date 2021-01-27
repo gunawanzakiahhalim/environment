@@ -1,13 +1,27 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+dl {
+    padding: 10px;
+    border: solid 1px darkblue;
+    max-width: 300px;
+}
+
 dt {
-  margin-top: 5px;
-  font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
 }
+
 dd {
-  margin-top: 2px;
+    margin-top: 2px;
 }
+
 dd a {
-  text-decoration: none;
+    text-decoration: none;
+}
+
+dd a:hover {
+    color: black;
 }
