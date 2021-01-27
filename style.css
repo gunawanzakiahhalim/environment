@@ -3,9 +3,11 @@ body {
 }
 
 dl {
+    margin: 5px;
     padding: 10px;
     border: solid 1px darkblue;
     max-width: 300px;
+    float: left;
 }
 
 dt {
