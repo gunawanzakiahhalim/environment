@@ -1,5 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
 }
 
 dl {
@@ -17,7 +18,7 @@ dt {
     margin-top: 10px;
     margin-bottom: 5px;
     font-weight: bold;
-    color: teal;
+    color: seagreen;
 }
 
 dd {
@@ -31,7 +32,7 @@ dd a {
 }
 
 dd a:hover {
-    color: black;
+    color: red;
     background-color: springgreen;
     padding: 5px;
 }
