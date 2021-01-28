@@ -27,12 +27,12 @@ dd {
 
 dd a {
     text-decoration: none;
-    color: darkblue;
+    color: springgreen;
     padding: 5px;
 }
 
 dd a:hover {
-    color: red;
-    background-color: springgreen;
+    color: white;
+    background-color: darkblue;
     padding: 5px;
 }
