@@ -6,7 +6,7 @@ body {
 dl {
     margin: 5px;
     padding: 10px;
-    border: 1px solid seagreen;
+    border: 1px solid springgreen;
     border-radius: 20px;
     background-color: beige;
     max-width: 300px;
@@ -27,7 +27,7 @@ dd {
 
 dd a {
     text-decoration: none;
-    color: springgreen;
+    color: seagreen;
     padding: 5px;
 }
 
