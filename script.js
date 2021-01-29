@@ -131,6 +131,13 @@ const list = [{
             judul: 'javascript Visualize',
             url: 'http://pythontutor.com/javascript.html#mode=edit',
         }]
+    },
+    {
+        kategori: 'Infomedia',
+        links: [{
+            judul: 'quiz',
+            url: 'https://quiz.infomedia.co.id/',
+        }]
     }
 ];
 
