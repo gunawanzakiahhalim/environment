@@ -138,6 +138,20 @@ const list = [{
             judul: 'quiz',
             url: 'https://quiz.infomedia.co.id/',
         }]
+    },
+    {
+        kategori: 'Jalur Belajar Web',
+        links: [{
+            judul: 'diagram',
+            url: 'https://coggle.it/diagram/YA5j5BfeOvNuaqYu/t/jalur-belajar-web-development-2021-untuk-pemula/ed6061d5440b5a1a42737fb2f52ac42eb9c516a325ab949a57ee697eaed146c5',
+        }]
+    },
+    {
+        kategori: 'Diagram',
+        links: [{
+            judul: 'coggle',
+            url: 'https://coggle.it/',
+        }]
     }
 ];
 
