@@ -152,6 +152,13 @@ const list = [{
             judul: 'coggle',
             url: 'https://coggle.it/',
         }]
+    },
+    {
+        kategori: 'Frameword CSS',
+        links: [{
+            judul: 'bootstrap',
+            url: 'https://getbootstrap.com/',
+        }]
     }
 ];
 
