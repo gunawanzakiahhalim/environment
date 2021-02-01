@@ -1,14 +1,12 @@
 // 2. looping
 // 4. Nested 
 // HTML Fragment Bersarang
-const list = [
-    {
+const list = [{
         kategori: 'Framework PHP',
         links: [{
-                judul: 'codeigniter',
-                url: 'https://codeigniter.com/'
-            }
-        ]
+            judul: 'codeigniter',
+            url: 'https://codeigniter.com/'
+        }]
     },
     {
         kategori: 'Online Server',
@@ -91,6 +89,10 @@ const list = [
             {
                 judul: 'youtube',
                 url: 'https://www.youtube.com/'
+            },
+            {
+                judul: 'maps',
+                url: 'https://maps.google.com/'
             }
         ]
     },
