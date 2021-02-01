@@ -159,6 +159,13 @@ const list = [{
             judul: 'bootstrap',
             url: 'https://getbootstrap.com/',
         }]
+    },
+    {
+        kategori: 'Application',
+        links: [{
+            judul: 'Pertamina Application',
+            url: 'https://nginxdragon.github.io/application/',
+        }]
     }
 ];
 
