@@ -145,6 +145,10 @@ const list = [{
             {
                 judul: 'eloquent javascript',
                 url: 'https://eloquentjavascript.net/',
+            },
+            {
+                judul: 'sitepoint',
+                url: 'https://www.sitepoint.com/',
             }
         ]
     },
