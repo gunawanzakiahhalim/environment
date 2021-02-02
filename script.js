@@ -139,9 +139,14 @@ const list = [{
     {
         kategori: 'Javascript',
         links: [{
-            judul: 'javascript Visualize',
-            url: 'http://pythontutor.com/javascript.html#mode=edit',
-        }]
+                judul: 'javascript Visualize',
+                url: 'http://pythontutor.com/javascript.html#mode=edit',
+            },
+            {
+                judul: 'eloquent javascript',
+                url: 'https://eloquentjavascript.net/',
+            }
+        ]
     },
     {
         kategori: 'Infomedia',
