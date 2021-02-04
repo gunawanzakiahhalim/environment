@@ -1,14 +1,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    background-color: white;
 }
 
 dl {
     margin: 5px;
     padding: 10px;
-    border: 1px solid springgreen;
+    border: 1px solid seagreen;
     border-radius: 20px;
-    background-color: beige;
+    background-color: #03002e;
     max-width: 300px;
     min-width: 300px;
     float: left;
@@ -18,7 +18,7 @@ dt {
     margin-top: 5px;
     margin-bottom: 5px;
     font-weight: bold;
-    color: seagreen;
+    color: #fdf498;
 }
 
 dd {
@@ -27,7 +27,7 @@ dd {
 
 dd a {
     text-decoration: none;
-    color: seagreen;
+    color: springgreen;
     padding: 5px;
 }
 
