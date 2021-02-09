@@ -2,6 +2,13 @@
 // 4. Nested 
 // HTML Fragment Bersarang
 const list = [{
+        kategori: 'Font',
+        links: [{
+            judul: 'fontawesome',
+            url: 'https://fontawesome.com/'
+        }]
+    },
+    {
         kategori: 'Programming',
         links: [{
             judul: 'freecodecamp',
