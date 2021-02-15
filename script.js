@@ -9,6 +9,22 @@ const list = [{
         }]
     },
     {
+        kategori: 'Icons',
+        links: [{
+                judul: 'bootstrap',
+                url: 'https://icons.getbootstrap.com/'
+            },
+            {
+                judul: 'feathericons',
+                url: 'https://feathericons.com'
+            },
+            {
+                judul: 'fontawesome',
+                url: 'https://fontawesome.com/'
+            }
+        ]
+    },
+    {
         kategori: 'Programming',
         links: [{
             judul: 'freecodecamp',
