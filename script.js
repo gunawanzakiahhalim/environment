@@ -41,6 +41,10 @@ const list = [{
     {
         kategori: 'Online Server',
         links: [{
+                judul: 'reportaux',
+                url: 'https://reportaux.000webhostapp.com/login'
+            },
+            {
                 judul: 'rensi',
                 url: 'https://rensi135.000webhostapp.com/'
             },
@@ -97,7 +101,7 @@ const list = [{
                 url: 'https://ops10.000webhostapp.com/'
             },
             {
-                judul: 'pansol lama',
+                judul: 'File Img',
                 url: 'https://ops11.000webhostapp.com/'
             },
             {
