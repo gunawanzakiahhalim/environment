@@ -2,6 +2,13 @@
 // 4. Nested 
 // HTML Fragment Bersarang
 const list = [{
+        kategori: 'Personal',
+        links: [{
+            judul: 'IT DEV',
+            url: 'https://pansolsosmed.000webhostapp.com/'
+        }]
+    },
+    {
         kategori: 'Pertamina',
         links: [{
             judul: 'chatservices',
