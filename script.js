@@ -2,6 +2,13 @@
 // 4. Nested 
 // HTML Fragment Bersarang
 const list = [{
+        kategori: 'Pertamina',
+        links: [{
+            judul: 'chatservices',
+            url: 'https://chatservices.infomedia.co.id/deploy/mypertamina/index.php'
+        }]
+    },
+    {
         kategori: 'Font',
         links: [{
             judul: 'fontawesome',
