@@ -129,6 +129,10 @@ const list = [{
                 judul: 'listpangkalan',
                 url: 'https://listpangkalan.000webhostapp.com/'
             },
+            {
+                judul: 'bright store',
+                url: 'https://ops13.000webhostapp.com/index.php/promo'
+            },
         ],
     },
     {
