@@ -2,6 +2,13 @@
 // 4. Nested 
 // HTML Fragment Bersarang
 const list = [{
+        kategori: 'Tutorial',
+        links: [{
+            judul: 'jagocoding',
+            url: 'http://www.jagocoding.com/'
+        }]
+    },
+    {
         kategori: 'Convert',
         links: [{
             judul: 'excel array',
