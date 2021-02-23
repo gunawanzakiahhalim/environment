@@ -242,9 +242,14 @@ const list = [{
     {
         kategori: 'Frameword CSS',
         links: [{
-            judul: 'bootstrap',
-            url: 'https://getbootstrap.com/',
-        }]
+                judul: 'bootstrap',
+                url: 'https://getbootstrap.com/',
+            },
+            {
+                judul: 'metroui',
+                url: 'https://metroui.org.ua/',
+            }
+        ]
     },
     {
         kategori: 'Application',
