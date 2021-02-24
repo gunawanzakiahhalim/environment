@@ -153,6 +153,10 @@ const list = [{
                 url: 'https://keep.google.com/'
             },
             {
+                judul: 'mail',
+                url: 'mail.google.com'
+            },
+            {
                 judul: 'youtube',
                 url: 'https://www.youtube.com/'
             },
