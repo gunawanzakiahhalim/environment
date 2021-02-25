@@ -11,9 +11,14 @@ const list = [{
     {
         kategori: 'Convert',
         links: [{
-            judul: 'excel array',
-            url: 'https://t.yctin.com/en/excel/to-php-array/'
-        }]
+                judul: 'excel array',
+                url: 'https://t.yctin.com/en/excel/to-php-array/'
+            },
+            {
+                judul: 'detik',
+                url: 'https://www.google.com/search?q=1+menit+berapa+detik&oq=1+meni&aqs=chrome.0.0l2j69i57j46j0l6.3054j0j7&sourceid=chrome&ie=UTF-8'
+            }
+        ]
     },
     {
         kategori: 'Personal',
@@ -163,7 +168,8 @@ const list = [{
             {
                 judul: 'maps',
                 url: 'https://maps.google.com/'
-            } {
+            },
+            {
                 judul: 'Google Sheets',
                 url: 'https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883'
             }
