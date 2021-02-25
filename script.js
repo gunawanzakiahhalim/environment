@@ -154,7 +154,7 @@ const list = [{
             },
             {
                 judul: 'mail',
-                url: 'mail.google.com'
+                url: 'https://mail.google.com/'
             },
             {
                 judul: 'youtube',
@@ -163,6 +163,9 @@ const list = [{
             {
                 judul: 'maps',
                 url: 'https://maps.google.com/'
+            } {
+                judul: 'Google Sheets',
+                url: 'https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883'
             }
         ]
     },
