@@ -66,10 +66,16 @@ const list = [{
     },
     {
         kategori: 'Programming',
-        links: [{
+        links: [
+            {
             judul: 'freecodecamp',
             url: 'https://www.freecodecamp.org/'
-        }]
+        },
+            {
+            judul: 'bitdegree',
+            url: 'https://www.bitdegree.org/courses/coding-for-beginners-space-doggos'
+        }
+    ]
     },
     {
         kategori: 'Framework PHP',
