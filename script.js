@@ -2,11 +2,22 @@
 // 4. Nested 
 // HTML Fragment Bersarang
 const list = [{
+        kategori: 'SQL',
+        links: [{
+                judul: 'dofactory',
+                url: 'https://www.dofactory.com/sql/join'
+            },
+
+        ]
+    },
+    {
         kategori: 'PHP',
         links: [{
-            judul: 'Time',
-            url: 'https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_time'
-        }]
+                judul: 'Time',
+                url: 'https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_time'
+            },
+
+        ]
     },
     {
         kategori: 'Tutorial',
@@ -66,16 +77,15 @@ const list = [{
     },
     {
         kategori: 'Programming',
-        links: [
+        links: [{
+                judul: 'freecodecamp',
+                url: 'https://www.freecodecamp.org/'
+            },
             {
-            judul: 'freecodecamp',
-            url: 'https://www.freecodecamp.org/'
-        },
-            {
-            judul: 'bitdegree',
-            url: 'https://www.bitdegree.org/courses/coding-for-beginners-space-doggos'
-        }
-    ]
+                judul: 'bitdegree',
+                url: 'https://www.bitdegree.org/courses/coding-for-beginners-space-doggos'
+            }
+        ]
     },
     {
         kategori: 'Framework PHP',
