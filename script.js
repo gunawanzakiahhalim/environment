@@ -16,6 +16,10 @@ const list = [{
                 judul: 'Time',
                 url: 'https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_time'
             },
+            {
+                judul: 'phpspreadsheet',
+                url: 'https://phpspreadsheet.readthedocs.io/en/latest/'
+            },
 
         ]
     },
