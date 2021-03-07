@@ -261,6 +261,10 @@ const list = [
         judul: 'github',
         url: 'https://github.com/',
       },
+      {
+        judul: 'git',
+        url: 'https://git-scm.com/',
+      },
     ],
   },
   {
