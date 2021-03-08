@@ -4,9 +4,14 @@
 const list = [{
         kategori: 'omni',
         links: [{
-            judul: 'vcall',
-            url: 'https://on4pertamina.infomedia.co.id/oct_pertaminavca',
-        }, ],
+                judul: 'layanan',
+                url: 'https://on4pertamina.infomedia.co.id/oct_pertamina',
+            },
+            {
+                judul: 'vcall',
+                url: 'https://on4pertamina.infomedia.co.id/oct_pertaminavca',
+            }
+        ],
     },
     {
         kategori: 'Avaya',
