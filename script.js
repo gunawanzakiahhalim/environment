@@ -4,14 +4,9 @@
 const list = [{
         kategori: 'Absensi',
         links: [{
-                judul: 'Non Voice',
-                url: 'http://10.194.194.103/prehet2_report/',
-            },
-            {
-                judul: 'vcall',
-                url: 'https://on4pertamina.infomedia.co.id/oct_pertaminavca',
-            }
-        ],
+            judul: 'Non Voice',
+            url: 'http://10.194.194.103/prehet2_report/',
+        }],
     },
     {
         kategori: 'omni',
