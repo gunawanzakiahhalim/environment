@@ -2,6 +2,13 @@
 // 4. Nested
 // HTML Fragment Bersarang
 const list = [{
+        kategori: 'Profesional Networking',
+        links: [{
+            judul: 'Networking Fundamental',
+            url: 'http://10.194.194.103/prehet2_report/',
+        }],
+    },
+    {
         kategori: 'Absensi',
         links: [{
             judul: 'Non Voice',
