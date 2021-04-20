@@ -3,10 +3,16 @@
 // HTML Fragment Bersarang
 const list = [{
         kategori: 'Profesional Networking',
-        links: [{
+        links: [
+            {
+            judul: 'Onno Center',
+            url: 'https://lms.onnocenter.or.id/wiki/index.php/Main_Page',
+            },
+            {
             judul: 'Networking Fundamental',
-            url: 'http://10.194.194.103/prehet2_report/',
-        }],
+            url: 'https://lms.onnocenter.or.id/wiki/index.php/Networking_Fundamental',
+            }
+            ],
     },
     {
         kategori: 'Absensi',
