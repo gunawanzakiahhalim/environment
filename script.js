@@ -1,28 +1,31 @@
 // 2. looping
 // 4. Nested
 // HTML Fragment Bersarang
-const list = [
+const list = [{
+        kategori: ' Continuous Integration CI/CD',
+        links: [{
+            judul: 'dicoding',
+            url: 'https://www.dicoding.com/blog/devops-di-google-cloud-cicd/',
+        }],
+    },
     {
         kategori: 'Telkom',
-        links: [
-            {
+        links: [{
             judul: 'TDS',
             url: 'https://www.telkomdigitalsolution.com/solution/voice-data-internet-connectivity/',
-            }
-            ],
+        }],
     },
     {
         kategori: 'Profesional Networking',
-        links: [
-            {
-            judul: 'Onno Center',
-            url: 'https://lms.onnocenter.or.id/wiki/index.php/Main_Page',
+        links: [{
+                judul: 'Onno Center',
+                url: 'https://lms.onnocenter.or.id/wiki/index.php/Main_Page',
             },
             {
-            judul: 'Networking Fundamental',
-            url: 'https://lms.onnocenter.or.id/wiki/index.php/Networking_Fundamental',
+                judul: 'Networking Fundamental',
+                url: 'https://lms.onnocenter.or.id/wiki/index.php/Networking_Fundamental',
             }
-            ],
+        ],
     },
     {
         kategori: 'Absensi',
