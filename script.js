@@ -1,7 +1,17 @@
 // 2. looping
 // 4. Nested
 // HTML Fragment Bersarang
-const list = [{
+const list = [
+    {
+        kategori: 'Telkom',
+        links: [
+            {
+            judul: 'TDS',
+            url: 'https://www.telkomdigitalsolution.com/solution/voice-data-internet-connectivity/',
+            }
+            ],
+    },
+    {
         kategori: 'Profesional Networking',
         links: [
             {
