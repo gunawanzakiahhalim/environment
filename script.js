@@ -145,6 +145,10 @@ const list = [{
     {
         kategori: 'Programming',
         links: [{
+                judul: 'sekolahkoding',
+                url: 'https://sekolahkoding.com/forum/looping-data-besar-di-javascript-pakek-aja-interval',
+            },
+            {
                 judul: 'freecodecamp',
                 url: 'https://www.freecodecamp.org/',
             },
