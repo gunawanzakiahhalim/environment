@@ -18,6 +18,10 @@ const list = [{
     {
         kategori: 'Profesional Networking',
         links: [{
+                judul: 'ngonfig',
+                url: 'https://ngonfig.net/ip-address.html',
+            },
+            {
                 judul: 'Onno Center',
                 url: 'https://lms.onnocenter.or.id/wiki/index.php/Main_Page',
             },
