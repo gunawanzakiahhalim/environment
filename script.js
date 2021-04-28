@@ -2,7 +2,14 @@
 // 4. Nested
 // HTML Fragment Bersarang
 const list = [{
-        kategori: ' Continuous Integration CI/CD',
+        kategori: 'cisco',
+        links: [{
+            judul: 'certifications',
+            url: 'https://learningnetwork.cisco.com/s/certifications',
+        }],
+    },
+    {
+        kategori: 'Continuous Integration CI/CD',
         links: [{
             judul: 'dicoding',
             url: 'https://www.dicoding.com/blog/devops-di-google-cloud-cicd/',
