@@ -25,6 +25,10 @@ const list = [{
     {
         kategori: 'Profesional Networking',
         links: [{
+                judul: 'gns3',
+                url: 'https://gns3.com/',
+            },
+            {
                 judul: 'ngonfig',
                 url: 'https://ngonfig.net/ip-address.html',
             },
