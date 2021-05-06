@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Opencourse',
+    links: [
+      {
+        judul: 'itts',
+        url: 'https://opencourse.itts.ac.id/',
+      },
+    ],
+  },
+  {
     kategori: 'cisco',
     links: [
       {
