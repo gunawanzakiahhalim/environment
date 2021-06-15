@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Stack overflow',
+    links: [
+      {
+        judul: 'Prettier Setup',
+        url: 'https://stackoverflow.com/questions/52586965/why-does-prettier-not-format-code-in-vs-code',
+      },
+    ],
+  },
+  {
     kategori: 'Opencourse',
     links: [
       {
