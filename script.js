@@ -230,7 +230,7 @@ const list = [
         url: 'https://pansolwa.000webhostapp.com',
       },
       {
-        judul: 'bright store',
+        judul: 'rekapnc',
         url: 'https://ops13.000webhostapp.com/rekapnc',
       },
     ],
