@@ -346,9 +346,13 @@ const list = [
     kategori: 'Infomedia',
     links: [
       {
+        judul: 'serina',
+        url: 'https://serina.infomedia.co.id/',
+      },
+      {
         judul: 'quiz',
         url: 'https://quiz.infomedia.co.id/',
-      },
+      }
     ],
   },
   {
