@@ -226,76 +226,12 @@ const list = [
     kategori: 'Online Server',
     links: [
       {
-        judul: 'reportaux',
-        url: 'https://reportaux.000webhostapp.com/login',
-      },
-      {
-        judul: 'rensi',
-        url: 'https://rensi135.000webhostapp.com/',
-      },
-      {
-        judul: 'redeem',
-        url: 'https://support135.000webhostapp.com/redeem/',
-      },
-      {
-        judul: 'pulau135',
-        url: 'https://pulau135.000webhostapp.com/',
-      },
-      {
-        judul: 'nc agent',
-        url: 'https://rekapnc.000webhostapp.com/',
-      },
-      {
-        judul: 'pelayanan pds',
-        url: 'https://apps1351.000webhostapp.com',
-      },
-      {
-        judul: 'chanelsosmed',
-        url: 'https://chanelsosmed.000webhostapp.com/',
-      },
-      {
-        judul: 'file pdf it dev',
-        url: 'https://pansolsosmed.000webhostapp.com/',
-      },
-      {
-        judul: 'eca',
-        url: 'https://ops4.000webhostapp.com/',
-      },
-      {
-        judul: 'pds135',
-        url: 'https://pds135.000webhostapp.com/',
-      },
-      {
-        judul: 'spbu',
-        url: 'https://ops6.000webhostapp.com/',
-      },
-      {
         judul: 'pansol',
         url: 'https://pansolwa.000webhostapp.com',
       },
       {
-        judul: 'nc bes',
-        url: 'https://ncbes.000webhostapp.com/',
-      },
-      {
-        judul: 'arjunadigital',
-        url: 'https://arjunadigital.000webhostapp.com/',
-      },
-      {
-        judul: 'survey',
-        url: 'https://ops10.000webhostapp.com/',
-      },
-      {
-        judul: 'File Img',
-        url: 'https://ops11.000webhostapp.com/',
-      },
-      {
-        judul: 'listpangkalan',
-        url: 'https://listpangkalan.000webhostapp.com/',
-      },
-      {
         judul: 'bright store',
-        url: 'https://ops13.000webhostapp.com/index.php/promo',
+        url: 'https://ops13.000webhostapp.com/rekapnc',
       },
     ],
   },
