@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Open API',
+    links: [
+      {
+        judul: 'omdbapi',
+        url: 'https://www.omdbapi.com/',
+      },
+    ],
+  },
+  {
     kategori: 'Stack overflow',
     links: [
       {
@@ -329,6 +338,10 @@ const list = [
   {
     kategori: 'Javascript',
     links: [
+      {
+        judul: 'jquery',
+        url: 'https://code.jquery.com/',
+      },
       {
         judul: 'scrimba',
         url: 'https://scrimba.com/',
