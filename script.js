@@ -368,6 +368,10 @@ const list = [
     kategori: 'Infomedia',
     links: [
       {
+        judul: 'nice',
+        url: 'http://nice-engage/NiceApplications/Desktop/XbapApplications/NiceDesktop.xbap',
+      },
+      {
         judul: 'serina',
         url: 'https://serina.infomedia.co.id/',
       },
