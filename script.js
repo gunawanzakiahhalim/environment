@@ -304,6 +304,10 @@ const list = [
     kategori: 'Version Control System',
     links: [
       {
+        judul: 'atlassian',
+        url: 'https://id.atlassian.com/login',
+      },
+      {
         judul: 'github',
         url: 'https://github.com/',
       },
