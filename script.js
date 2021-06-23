@@ -343,6 +343,10 @@ const list = [
     kategori: 'Javascript',
     links: [
       {
+        judul: 'info',
+        url: 'https://javascript.info/',
+      },
+      {
         judul: 'jquery',
         url: 'https://code.jquery.com/',
       },
