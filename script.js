@@ -257,6 +257,10 @@ const list = [
     kategori: 'Google',
     links: [
       {
+        judul: 'translate',
+        url: 'https://translate.google.com/?sl=en&tl=id&op=translate',
+      },
+      {
         judul: 'drive',
         url: 'https://drive.google.com/',
       },
