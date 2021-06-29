@@ -290,9 +290,13 @@ const list = [
     kategori: 'Microsoft',
     links: [
       {
+        judul: 'backup outlook mail',
+        url: 'https://support.microsoft.com/en-us/office/back-up-your-email-e5845b0b-1aeb-424f-924c-aa1c33b18833',
+      },
+      {
         judul: 'onedrive',
         url: 'https://onedrive.live.com/about/en-us/signin/',
-      },
+      }
     ],
   },
   {
