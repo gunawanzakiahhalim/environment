@@ -235,6 +235,10 @@ const list = [
     kategori: 'Framework PHP',
     links: [
       {
+        judul: 'laravel',
+        url: 'https://laravel.com/',
+      },
+      {
         judul: 'codeigniter',
         url: 'https://codeigniter.com/',
       },
@@ -254,7 +258,7 @@ const list = [
       {
         judul: 'Idul Adha',
         url: 'https://ops15.000webhostapp.com/',
-      }
+      },
     ],
   },
   {
@@ -300,7 +304,7 @@ const list = [
       {
         judul: 'onedrive',
         url: 'https://onedrive.live.com/about/en-us/signin/',
-      }
+      },
     ],
   },
   {
@@ -398,7 +402,7 @@ const list = [
       {
         judul: 'quiz',
         url: 'https://quiz.infomedia.co.id/',
-      }
+      },
     ],
   },
   {
