@@ -251,6 +251,10 @@ const list = [
         judul: 'rekapnc',
         url: 'https://ops13.000webhostapp.com/rekapnc',
       },
+      {
+        judul: 'Idul Adha',
+        url: 'https://ops15.000webhostapp.com/',
+      }
     ],
   },
   {
