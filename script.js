@@ -517,7 +517,7 @@ const list = [
     ],
   },
   {
-    kategori: 'Facebook',
+    kategori: 'Meta',
     links: [
       {
         judul: 'whatsapp',
