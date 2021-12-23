@@ -69,7 +69,7 @@ const list = [
     links: [
       {
         judul: 'Call Monitoring',
-        url: 'http://103.252.163.122/wb135/index.php',
+        url: 'https://wallboard.infomedia.co.id/wb135/login.php',
       },
     ]
   },
