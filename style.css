@@ -1,38 +1,38 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
 }
 
 dl {
-    margin: 5px;
-    padding: 10px;
-    border: 1px solid seagreen;
-    border-radius: 20px;
-    background-color: #03002e;
-    max-width: 250px;
-    min-width: 250px;
-    float: left;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid seagreen;
+  border-radius: 20px;
+  background-color: #03002e;
+  max-width: 250px;
+  min-width: 250px;
+  float: left;
 }
 
 dt {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    font-weight: bold;
-    color: #fdf498;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #fdf498;
 }
 
 dd {
-    margin-top: 5px;
+  margin-top: 5px;
 }
 
 dd a {
-    text-decoration: none;
-    color: springgreen;
-    padding: 5px;
+  text-decoration: none;
+  color: springgreen;
+  padding: 5px;
 }
 
 dd a:hover {
-    color: white;
-    background-color: darkblue;
-    padding: 5px;
+  color: white;
+  background-color: darkblue;
+  padding: 5px;
 }

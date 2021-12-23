@@ -3,6 +3,173 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Images Free',
+    links: [
+      {
+        judul: 'unsplash',
+        url: 'https://unsplash.com/',
+      },
+    ]
+  },
+  {
+    kategori: 'Images Editor',
+    links: [
+      {
+        judul: 'squoosh',
+        url: 'https://squoosh.app/',
+      },
+    ]
+  },
+  {
+    kategori: 'Telegram',
+    links: [
+      {
+        judul: 'dicoffeean',
+        url: 'https://dicoffeean.com/bot-telegram-webhook/',
+      },
+    ]
+  },
+  {
+    kategori: 'Realme',
+    links: [
+      {
+        judul: 'heytap',
+        url: 'https://cloud.heytap.com/login.html',
+      },
+    ]
+  },
+  {
+    kategori: 'Container Registry',
+    links: [
+      {
+        judul: 'Docker Hub',
+        url: 'https://hub.docker.com/',
+      },
+      {
+        judul: 'Google Container Registry',
+        url: 'https://cloud.google.com/container-registry/',
+      },
+      {
+        judul: 'AWS Elastic Container Registry',
+        url: 'https://aws.amazone.com/id/ecr/',
+      },
+    ]
+  },
+  {
+    kategori: 'Container',
+    links: [
+      {
+        judul: 'docker',
+        url: 'https://docs.docker.com/',
+      },
+    ]
+  },
+  {
+    kategori: 'Wallboard Pertamina',
+    links: [
+      {
+        judul: 'Call Monitoring',
+        url: 'http://103.252.163.122/wb135/index.php',
+      },
+    ]
+  },
+  {
+    kategori: 'Developer Roadmaps',
+    links: [
+      {
+        judul: 'roadmap',
+        url: 'https://roadmap.sh/roadmaps',
+      },
+      {
+        judul: 'theroadmap',
+        url: 'https://www.youtube.com/theroadmap',
+      },
+      {
+        judul: 'YAML',
+        url: 'https://www.youtube.com/watch?v=ImHSpwUlNVc',
+      },
+    ],
+  },
+  {
+    kategori: 'CSS',
+    links: [
+      {
+        judul: 'getwaves',
+        url: 'https://getwaves.io/',
+      },
+    ],
+  },
+  {
+    kategori: 'Line',
+    links: [
+      {
+        judul: 'Line Developers',
+        url: 'https://developers.line.biz/en/',
+      },
+    ],
+  },
+  {
+    kategori: 'Docs Kata.AI',
+    links: [
+      {
+        judul: 'Tutorial',
+        url: 'https://docs.kata.ai/tutorial',
+      },
+      {
+        judul: 'platform kata.ai',
+        url: 'https://platform.kata.ai/login',
+      },
+    ],
+  },
+  {
+    kategori: 'Local',
+    links: [
+      {
+        judul: 'Fania Admin',
+        url: 'http://172.28.154.229/aplikasi/adminfania/',
+      },
+      {
+        judul: 'Pastel',
+        url: 'http://10.194.51.116/pastel/dashboard.php',
+      },
+      {
+        judul: 'Awfo',
+        url: 'http://10.194.51.70/wfo/control/signin',
+      },
+      {
+        judul: 'Aplikasi Echi',
+        url: 'http://10.194.51.37/aplikasiechi/',
+      },
+    ],
+  },
+  {
+    kategori: 'BPJSTKU',
+    links: [
+      {
+        judul: 'Traffic Internet',
+        url: 'https://sso.bpjsketenagakerjaan.go.id/',
+      },
+    ],
+  },
+  {
+    kategori: 'User Guide',
+    links: [
+      {
+        judul: 'Traffic Internet',
+        url: 'http://localhost:8080/ug/traffic/',
+      },
+    ],
+  },
+  {
+    kategori: 'Vaksin',
+    links: [
+      {
+        judul: 'pedulilindungi',
+        url: 'https://pedulilindungi.id/',
+      },
+    ],
+  },
+  {
     kategori: 'Open API',
     links: [
       {
@@ -248,16 +415,24 @@ const list = [
     kategori: 'Online Server',
     links: [
       {
-        judul: 'pansol',
-        url: 'https://pansolwa.000webhostapp.com',
-      },
-      {
         judul: 'rekapnc',
-        url: 'https://ops13.000webhostapp.com/rekapnc',
+        url: 'https://ops15.000webhostapp.com/',
       },
       {
-        judul: 'Idul Adha',
-        url: 'https://ops15.000webhostapp.com/',
+        judul: 'Call 135',
+        url: 'https://ops16.000webhostapp.com/login',
+      },
+      {
+        judul: 'Brilliant',
+        url: 'https://kvk17.000webhostapp.com/',
+      },
+      {
+        judul: 'Brilliant',
+        url: 'https://kvk18.000webhostapp.com/',
+      },
+      {
+        judul: 'Kemerdekaan',
+        url: 'https://kvk19.000webhostapp.com/',
       },
     ],
   },
@@ -319,6 +494,10 @@ const list = [
   {
     kategori: 'Version Control System',
     links: [
+      {
+        judul: 'git-lfs',
+        url: 'https://git-lfs.github.com/',
+      },
       {
         judul: 'atlassian',
         url: 'https://id.atlassian.com/login',
@@ -391,6 +570,10 @@ const list = [
   {
     kategori: 'Infomedia',
     links: [
+      {
+        judul: 'siquiz',
+        url: 'http://10.194.179.100/siquiz/',
+      },
       {
         judul: 'nice',
         url: 'http://nice-engage/NiceApplications/Desktop/XbapApplications/NiceDesktop.xbap',
