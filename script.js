@@ -53,6 +53,10 @@ const list = [
         judul: 'AWS Elastic Container Registry',
         url: 'https://aws.amazone.com/id/ecr/',
       },
+      {
+        judul: 'Azure Container Registry',
+        url: 'https://azure.microsoft.com/en-us/services/container-registry/',
+      },
     ]
   },
   {
