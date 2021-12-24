@@ -56,10 +56,14 @@ const list = [
     ]
   },
   {
-    kategori: 'Container',
+    kategori: 'Container Manager',
     links: [
       {
         judul: 'docker',
+        url: 'https://www.docker.com/',
+      },
+      {
+        judul: 'docker docs',
         url: 'https://docs.docker.com/',
       },
     ]
