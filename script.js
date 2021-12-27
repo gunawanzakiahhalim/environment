@@ -73,6 +73,15 @@ const list = [
     ]
   },
   {
+    kategori: 'Docker Tutorial',
+    links: [
+      {
+        judul: 'Install MariaDB',
+        url: 'https://www.danielhs.my.id/2019/09/install-phpmyadmin-mariadb-di-docker.html',
+      },
+    ]
+  },
+  {
     kategori: 'Wallboard Pertamina',
     links: [
       {
