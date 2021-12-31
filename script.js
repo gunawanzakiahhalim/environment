@@ -3,13 +3,22 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Software Original',
+    links: [
+      {
+        judul: 'PT. Synnex Metrodata Indonesia',
+        url: 'https://genuine.msft-smi.com/',
+      },
+    ],
+  },
+  {
     kategori: 'Images Free',
     links: [
       {
         judul: 'unsplash',
         url: 'https://unsplash.com/',
       },
-    ]
+    ],
   },
   {
     kategori: 'Images Editor',
@@ -18,7 +27,7 @@ const list = [
         judul: 'squoosh',
         url: 'https://squoosh.app/',
       },
-    ]
+    ],
   },
   {
     kategori: 'Telegram',
@@ -27,7 +36,7 @@ const list = [
         judul: 'dicoffeean',
         url: 'https://dicoffeean.com/bot-telegram-webhook/',
       },
-    ]
+    ],
   },
   {
     kategori: 'Realme',
@@ -36,7 +45,7 @@ const list = [
         judul: 'heytap',
         url: 'https://cloud.heytap.com/login.html',
       },
-    ]
+    ],
   },
   {
     kategori: 'Container Registry',
@@ -57,7 +66,7 @@ const list = [
         judul: 'Azure Container Registry',
         url: 'https://azure.microsoft.com/en-us/services/container-registry/',
       },
-    ]
+    ],
   },
   {
     kategori: 'Container Manager',
@@ -70,7 +79,7 @@ const list = [
         judul: 'docker docs',
         url: 'https://docs.docker.com/',
       },
-    ]
+    ],
   },
   {
     kategori: 'Docker Tutorial',
@@ -79,7 +88,7 @@ const list = [
         judul: 'Install MariaDB',
         url: 'https://www.danielhs.my.id/2019/09/install-phpmyadmin-mariadb-di-docker.html',
       },
-    ]
+    ],
   },
   {
     kategori: 'Wallboard Pertamina',
@@ -88,7 +97,7 @@ const list = [
         judul: 'Call Monitoring',
         url: 'https://wallboard.infomedia.co.id/wb135/login.php',
       },
-    ]
+    ],
   },
   {
     kategori: 'Developer Roadmaps',
