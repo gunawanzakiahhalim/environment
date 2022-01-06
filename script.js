@@ -470,16 +470,16 @@ const list = [
     kategori: 'Google',
     links: [
       {
+        judul: 'google keep',
+        url: 'https://keep.google.com/',
+      },
+      {
         judul: 'translate',
         url: 'https://translate.google.com/?sl=en&tl=id&op=translate',
       },
       {
         judul: 'drive',
         url: 'https://drive.google.com/',
-      },
-      {
-        judul: 'keep',
-        url: 'https://keep.google.com/',
       },
       {
         judul: 'mail',
