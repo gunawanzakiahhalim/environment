@@ -466,7 +466,7 @@ const list = [
     kategori: 'Google',
     links: [
       {
-        judul: 'keep',
+        judul: 'google keep',
         url: 'https://keep.google.com/',
       },
       {
@@ -476,10 +476,6 @@ const list = [
       {
         judul: 'drive',
         url: 'https://drive.google.com/',
-      },
-      {
-        judul: 'keep',
-        url: 'https://keep.google.com/',
       },
       {
         judul: 'mail',
