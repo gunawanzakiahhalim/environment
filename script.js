@@ -466,6 +466,10 @@ const list = [
     kategori: 'Google',
     links: [
       {
+        judul: 'keep',
+        url: 'https://keep.google.com/',
+      },
+      {
         judul: 'translate',
         url: 'https://translate.google.com/?sl=en&tl=id&op=translate',
       },
