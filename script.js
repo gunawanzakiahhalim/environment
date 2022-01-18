@@ -606,7 +606,7 @@ const list = [
     links: [
       {
         judul: 'lms',
-        url: 'https://lms.infomedia.co.id/login',
+        url: 'https://lms.infomedia.co.id/',
       },
       {
         judul: 'siquiz',
