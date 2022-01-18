@@ -601,6 +601,10 @@ const list = [
     kategori: 'Infomedia',
     links: [
       {
+        judul: 'lms',
+        url: 'https://lms.infomedia.co.id/login',
+      },
+      {
         judul: 'siquiz',
         url: 'http://10.194.179.100/siquiz/',
       },
