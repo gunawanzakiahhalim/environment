@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Tools',
+    links: [
+      {
+        judul: 'OSINT Framework',
+        url: 'https://osintframework.com/',
+      },
+    ],
+  },
+  {
     kategori: 'Software Original',
     links: [
       {
