@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'HTML',
+    links: [
+      {
+        judul: 'Tags',
+        url: 'https://www.w3schools.com/TAgs/default.asp',
+      },
+    ],
+  },
+  {
     kategori: 'Tools',
     links: [
       {
