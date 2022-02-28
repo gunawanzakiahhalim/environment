@@ -160,6 +160,10 @@ const list = [
     kategori: 'Local',
     links: [
       {
+        judul: 'Alert SL',
+        url: 'http://10.194.51.37/alertsl/',
+      },
+      {
         judul: 'Fania Admin',
         url: 'http://172.28.154.229/aplikasi/adminfania/',
       },
