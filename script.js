@@ -138,6 +138,10 @@ const list = [
     kategori: 'CSS',
     links: [
       {
+        judul: 'color-picker',
+        url: 'https://www.webfx.com/web-design/color-picker/',
+      },
+      {
         judul: 'almanac',
         url: 'https://css-tricks.com/almanac/',
       },
