@@ -138,6 +138,10 @@ const list = [
     kategori: 'CSS',
     links: [
       {
+        judul: 'patterns',
+        url: 'https://www.toptal.com/designers/subtlepatterns/',
+      },
+      {
         judul: 'color-picker',
         url: 'https://www.webfx.com/web-design/color-picker/',
       },
