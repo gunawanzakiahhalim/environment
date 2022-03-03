@@ -138,6 +138,14 @@ const list = [
     kategori: 'CSS',
     links: [
       {
+        judul: 'almanac',
+        url: 'https://css-tricks.com/almanac/',
+      },
+      {
+        judul: 'reference',
+        url: 'https://developer.mozilla.org/en-US/docs/web/css/reference',
+      },
+      {
         judul: 'getwaves',
         url: 'https://getwaves.io/',
       },
