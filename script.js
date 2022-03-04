@@ -138,6 +138,10 @@ const list = [
     kategori: 'CSS',
     links: [
       {
+        judul: 'specificity',
+        url: 'https://specificity.keegan.st/',
+      },
+      {
         judul: 'patterns',
         url: 'https://www.toptal.com/designers/subtlepatterns/',
       },
