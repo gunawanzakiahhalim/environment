@@ -3,6 +3,24 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'WIFI',
+    links: [
+      {
+        judul: 'adopisoft',
+        url: 'https://www.adopisoft.com/indonesia',
+      },
+    ],
+  },
+  {
+    kategori: 'STORAGE',
+    links: [
+      {
+        judul: 'Macrium',
+        url: 'https://www.macrium.com/reflectfree',
+      },
+    ],
+  },
+  {
     kategori: 'HTML',
     links: [
       {
