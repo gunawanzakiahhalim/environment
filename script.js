@@ -6,6 +6,10 @@ const list = [
     kategori: 'ROBOTIC',
     links: [
       {
+        judul: 'Fritzing',
+        url: 'https://fritzing.org',
+      },
+      {
         judul: 'Robobloq',
         url: 'https://www.robobloq.com/',
       },
