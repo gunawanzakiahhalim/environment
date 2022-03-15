@@ -3,6 +3,23 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'ROBOTIC',
+    links: [
+      {
+        judul: 'Robobloq',
+        url: 'https://www.robobloq.com/',
+      },
+      {
+        judul: 'Webots',
+        url: 'https://cyberbotics.com/',
+      },
+      {
+        judul: 'Gazebo',
+        url: 'https://gazebosim.org/',
+      },
+    ],
+  },
+  {
     kategori: 'WIFI',
     links: [
       {
