@@ -729,6 +729,10 @@ const list = [
     kategori: 'Frameword CSS',
     links: [
       {
+        judul: 'CSS Variable bootstrap',
+        url: 'https://getbootstrap.com/docs/5.2/customize/css-variables/',
+      },
+      {
         judul: 'bootstrap',
         url: 'https://getbootstrap.com/',
       },
