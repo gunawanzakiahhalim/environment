@@ -48,6 +48,10 @@ const list = [
         judul: 'Tags',
         url: 'https://www.w3schools.com/TAgs/default.asp',
       },
+      {
+        judul: 'textfixer',
+        url: 'https://www.textfixer.com/html/convert-text-html.php',
+      },
     ],
   },
   {
