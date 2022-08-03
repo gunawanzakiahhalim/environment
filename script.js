@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'showwcase',
+    links: [
+      {
+        judul: 'Fritzing',
+        url: 'https://www.showwcase.com/',
+      },
+    ],
+  },
+  {
     kategori: 'ROBOTIC',
     links: [
       {
