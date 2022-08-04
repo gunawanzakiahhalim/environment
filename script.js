@@ -6,7 +6,7 @@ const list = [
     kategori: 'showwcase',
     links: [
       {
-        judul: 'Fritzing',
+        judul: 'showwcase',
         url: 'https://www.showwcase.com/',
       },
     ],
