@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'File Sync',
+    links: [
+      {
+        judul: 'freefilesync exclude',
+        url: 'https://freefilesync.org/manual.php?topic=exclude-files',
+      },
+    ],
+  },
+  {
     kategori: 'showwcase',
     links: [
       {
