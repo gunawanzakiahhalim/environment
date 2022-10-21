@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Module Bundler',
+    links: [
+      {
+        judul: 'Webpack',
+        url: 'https://webpack.js.org/',
+      },
+    ],
+  },
+  {
     kategori: 'File Sync',
     links: [
       {
