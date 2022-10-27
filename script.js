@@ -100,11 +100,15 @@ const list = [
     ],
   },
   {
-    kategori: 'Images Free',
+    kategori: 'Free Images',
     links: [
       {
         judul: 'unsplash',
         url: 'https://unsplash.com/',
+      },
+      {
+        judul: 'pixabay',
+        url: 'https://pixabay.com/',
       },
     ],
   },
