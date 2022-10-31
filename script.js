@@ -3,6 +3,19 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Faker Data',
+    links: [
+      {
+        judul: 'fzaninotto',
+        url: 'https://github.com/fzaninotto/Faker',
+      },
+      {
+        judul: 'fakerphp',
+        url: 'https://fakerphp.github.io/',
+      },
+    ],
+  },
+  {
     kategori: 'Module Bundler',
     links: [
       {
