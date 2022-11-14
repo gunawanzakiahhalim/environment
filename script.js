@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Pandas',
+    links: [
+      {
+        judul: 'pandas.ExcelWriter',
+        url: 'https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.ExcelWriter.html',
+      },
+    ],
+  },
+  {
     kategori: 'Faker Data',
     links: [
       {
