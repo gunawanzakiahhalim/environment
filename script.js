@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Session',
+    links: [
+      {
+        judul: 'batas-waktu-utk-session',
+        url: 'https://sekolahkoding.com/forum/cara-memberikan-batas-waktu-utk-session-user-codeigniter',
+      },
+    ],
+  },
+  {
     kategori: 'Pandas',
     links: [
       {
