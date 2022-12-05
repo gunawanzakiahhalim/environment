@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Macro VBA',
+    links: [
+      {
+        judul: 'macro vba excel dasar',
+        url: 'https://www.kelasexcel.id/2018/03/belajar-macro-vba-excel-dasar-untuk-pemula.html',
+      },
+    ],
+  },
+  {
     kategori: 'Session',
     links: [
       {
