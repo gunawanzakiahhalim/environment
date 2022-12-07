@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'dbeaver',
+    links: [
+      {
+        judul: 'Script Management',
+        url: 'https://dbeaver.com/docs/wiki/Script-Management/',
+      },
+    ],
+  },
+  {
     kategori: 'Macro VBA',
     links: [
       {
