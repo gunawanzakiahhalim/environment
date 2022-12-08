@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'chartjs',
+    links: [
+      {
+        judul: 'integration',
+        url: 'https://www.chartjs.org/docs/latest/getting-started/integration.html',
+      },
+    ],
+  },
+  {
     kategori: 'dbeaver',
     links: [
       {
