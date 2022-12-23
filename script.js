@@ -826,6 +826,10 @@ const list = [
     kategori: 'Diagram',
     links: [
       {
+        judul: 'figma',
+        url: 'https://www.figma.com/',
+      },
+      {
         judul: 'coggle',
         url: 'https://coggle.it/',
       },
