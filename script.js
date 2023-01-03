@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Database Client',
+    links: [
+      {
+        judul: 'workbench',
+        url: 'https://dev.mysql.com/downloads/workbench/',
+      },
+    ],
+  },
+  {
     kategori: 'chartjs',
     links: [
       {
