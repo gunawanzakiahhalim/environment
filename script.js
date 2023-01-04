@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'N+1 Problem',
+    links: [
+      {
+        judul: 'clockwork',
+        url: 'https://github.com/itsgoingd/clockwork',
+      },
+    ],
+  },
+  {
     kategori: 'Database Client',
     links: [
       {
