@@ -188,6 +188,14 @@ const list = [
     kategori: 'Free Images',
     links: [
       {
+        judul: 'API unsplash',
+        url: 'https://source.unsplash.com/1200x400?personal',
+      },
+      {
+        judul: 'unsplash developers',
+        url: 'https://unsplash.com/developers',
+      },
+      {
         judul: 'unsplash',
         url: 'https://unsplash.com/',
       },
@@ -303,6 +311,10 @@ const list = [
       {
         judul: 'patterns',
         url: 'https://www.toptal.com/designers/subtlepatterns/',
+      },
+      {
+        judul: 'image-picker',
+        url: 'https://coolors.co/image-picker',
       },
       {
         judul: 'color-picker',
