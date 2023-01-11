@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Apache',
+    links: [
+      {
+        judul: 'mod_authz_host',
+        url: 'https://httpd.apache.org/docs/2.4/mod/mod_authz_host.html#:~:text=Require%20ip%20The%20ip%20provider%20allows%20access%20to,is%20allowed%20access%20if%20the%20IP%20address%20matches. ',
+      },
+    ],
+  },
+  {
     kategori: 'N+1 Problem',
     links: [
       {
