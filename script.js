@@ -421,6 +421,10 @@ const list = [
     kategori: 'Open API',
     links: [
       {
+        judul: 'AnyAPI',
+        url: 'https://any-api.com/',
+      },
+      {
         judul: 'omdbapi',
         url: 'https://www.omdbapi.com/',
       },
