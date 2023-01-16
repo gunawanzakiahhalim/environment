@@ -430,6 +430,10 @@ const list = [
     kategori: 'Open API',
     links: [
       {
+        judul: 'google',
+        url: 'https://developers.google.com/',
+      },
+      {
         judul: 'AnyAPI',
         url: 'https://any-api.com/',
       },
