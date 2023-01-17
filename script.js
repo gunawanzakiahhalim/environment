@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Rest Client',
+    links: [
+      {
+        judul: 'guzzle',
+        url: 'https://docs.guzzlephp.org/en/stable/',
+      },
+    ],
+  },
+  {
     kategori: 'Tombol',
     links: [
       {
