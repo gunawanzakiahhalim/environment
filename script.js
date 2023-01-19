@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'generator',
+    links: [
+      {
+        judul: 'textfixer',
+        url: 'https://www.textfixer.com/tools/plural-noun-generator.php',
+      },
+    ],
+  },
+  {
     kategori: 'Rest Client',
     links: [
       {
