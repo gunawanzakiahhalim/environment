@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'NPM',
+    links: [
+      {
+        judul: 'npmtrends',
+        url: 'https://npmtrends.com/',
+      },
+    ],
+  },
+  {
     kategori: 'generator',
     links: [
       {
