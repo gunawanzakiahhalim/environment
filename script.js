@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Character',
+    links: [
+      {
+        judul: 'count character',
+        url: 'https://www.charactercountonline.com/',
+      },
+    ],
+  },
+  {
     kategori: 'NPM',
     links: [
       {
