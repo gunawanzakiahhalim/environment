@@ -145,6 +145,10 @@ const list = [
     kategori: 'Module Bundler',
     links: [
       {
+        judul: 'Tilt',
+        url: 'https://gijsroge.github.io/tilt.js/',
+      },
+      {
         judul: 'Webpack',
         url: 'https://webpack.js.org/',
       },
