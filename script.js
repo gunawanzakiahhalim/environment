@@ -3,6 +3,15 @@
 // HTML Fragment Bersarang
 const list = [
   {
+    kategori: 'Library Javascript',
+    links: [
+      {
+        judul: 'lodash',
+        url: 'https://lodash.com/',
+      },
+    ],
+  },
+  {
     kategori: 'Character',
     links: [
       {
@@ -590,7 +599,7 @@ const list = [
     ],
   },
   {
-    kategori: 'Library',
+    kategori: 'Library PHP',
     links: [
       {
         judul: 'myth-auth',
